@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Quickstart](README.md)
+* [✨ Quickstart](README.md)
